@@ -1,0 +1,91 @@
+footer {
+      background-color: #f3f3f3;
+      padding-top: 15px;
+      height:50px;
+}
+.jumbotron { 
+      background-image: url("wolf6.jpg");
+      background-size: cover;
+      letter-spacing: 13px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+.container-fluid{
+    padding: 60px 50px;
+}
+.logo{
+    font-size: 30px;
+    margin-top: 8px;
+    margin-left: -15px;
+}
+
+.logo-small {
+    color: Orange;
+    font-size: 50px;
+}
+.col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+}
+
+
+.thumbnail img {
+    width: 300px;
+    height: 200px;
+    
+}
+
+  .navbar {
+      margin-bottom: 0;
+      background-color: #f4511e;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #fff;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: black !important;
+      background-color: #fff;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff;
+  }
+  
+   .carousel-control.right, .carousel-control.left {
+    background-image: none;
+    
+    
+    
+    
+}
+
+.carousel-indicators li {
+    border-color:none;
+    background-image:none;
+}
+
+.carousel-indicators li.active {
+    background-color: none;
+}
+.button1 {
+      text-align: center;
+}
+
+.button2 {
+      text-align: right;
+}
+
